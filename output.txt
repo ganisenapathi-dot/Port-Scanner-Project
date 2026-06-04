@@ -1,0 +1,13 @@
+Enter IP Address or Domain: scanme.nmap.org
+
+Scanning scanme.nmap.org...
+
+Port 21 is CLOSED
+Port 22 is OPEN
+Port 23 is CLOSED
+Port 25 is CLOSED
+Port 53 is CLOSED
+Port 80 is OPEN
+Port 110 is CLOSED
+Port 143 is CLOSED
+Port 443 is OPEN
